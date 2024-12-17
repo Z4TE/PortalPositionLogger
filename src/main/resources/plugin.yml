@@ -2,3 +2,6 @@ name: PortalPositionLogger
 version: '1.0'
 main: org.z4te.portalPositionLogger.Main
 api-version: '1.21'
+commands:
+  portal:
+    description: Tells you the location of the last portal you went through
